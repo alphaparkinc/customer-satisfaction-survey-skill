@@ -1,4 +1,4 @@
-# customer-satisfaction-survey-skill
+# genpark-customer-satisfaction-survey-skill
 
 > **GenPark AI Agent Skill** -- Net Promoter Score (NPS) metrics dashboard.
 
