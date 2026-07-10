@@ -1,5 +1,5 @@
 {
-  "name": "customer-satisfaction-survey-skill",
+  "name": "genpark-customer-satisfaction-survey-skill",
   "version": "1.0.0",
   "description": "GenPark AI Agent Skill - Calculates Net Promoter Score (NPS) metrics and groups customers into Promoters, Passives, or Detractors.",
   "author": "genpark",
